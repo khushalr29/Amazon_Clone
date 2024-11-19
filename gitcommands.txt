@@ -1,0 +1,11 @@
+git --version
+git config --global user.name "my name"
+git config --global user.email "xyz@gmail.com"
+git config --list
+git clone https://github.com/xyz123/Amazon_Clone.git
+git status
+git add .
+git commit -m "some message"
+git push origin main
+
+
